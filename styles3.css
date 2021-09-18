@@ -442,8 +442,13 @@ transform: rotate(45deg) translate(-10px, -12px);
 .carousel {
 	width: 80%;
 	margin: 0 auto;
-	height: 20%;
 }
+.carousel-item{
+	height: 700px;
+	background-position: center;
+	background-size: cover;
+}
+
 
 
 
