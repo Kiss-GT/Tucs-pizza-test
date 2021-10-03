@@ -457,7 +457,20 @@ transform: rotate(45deg) translate(-10px, -12px);
 	font-size: medium;
 }
 .allergies-button{
-	float:right
+	text-decoration: brown;
+	font-size: x-large;
+}
+h1{
+	color: #CCC;
+	text-align: center;
+}
+.contact-table{
+	margin:0 auto;
+}
+.contact-text{
+	color: cyan;
+	padding-right: 30px;
+	font-size: medium;
 }
 
 
