@@ -479,6 +479,11 @@ h1{
 	padding-right: 100px;
 	font-size: medium;
 }
+.galeria {
+	--bs-gutter-x: 0;
+	width: 75%;	
+	margin: 0 auto;
+}
 
 
 
