@@ -70,6 +70,7 @@ a{
 .logo {
 	height: 200px;
 	
+	
   	left: 40%;
   	position: fixed;
 	display: block;
@@ -121,6 +122,8 @@ a{
 	min-height: 8vh;
 	position: fixed;
 	z-index: 1000;
+	
+	width: 70%;
 	
 }
 .menu-nav{
@@ -388,7 +391,7 @@ transform: rotate(45deg) translate(-10px, -12px);
 .pizza-menu{
 	
 	font-size: medium;
-	margin: 0 50px;
+	margin: 0 250px;
 	/* position: absolute; */
 	top: 300px;
 	
@@ -459,6 +462,7 @@ transform: rotate(45deg) translate(-10px, -12px);
 .allergies-button{
 	text-decoration: brown;
 	font-size: x-large;
+	margin:0 auto;
 }
 h1{
 	color: #CCC;
