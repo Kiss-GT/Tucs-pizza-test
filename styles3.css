@@ -463,17 +463,20 @@ transform: rotate(45deg) translate(-10px, -12px);
 	text-decoration: brown;
 	font-size: x-large;
 	margin:0 auto;
+	float: right;
 }
 h1{
 	color: #CCC;
 	text-align: center;
+	margin: 50px 0;
 }
 .contact-table{
 	margin:0 auto;
+	margin-bottom: 200px;
 }
 .contact-text{
 	color: cyan;
-	padding-right: 30px;
+	padding-right: 100px;
 	font-size: medium;
 }
 
