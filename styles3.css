@@ -486,6 +486,7 @@ h1{
 	--bs-gutter-x: 0;
 	width: 75%;	
 	margin: 0 auto;
+	background: rgba(25, 25, 25, .5);
 }
 
 
