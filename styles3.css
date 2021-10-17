@@ -488,6 +488,17 @@ h1{
 	margin: 0 auto;
 	background: rgba(25, 25, 25, .5);
 }
+.back-top{
+	margin-left: 20%;
+}
+.tel-fixed{
+	position: fixed;
+	font-size: xx-large;
+	margin-top: 200px;
+	margin-left: 20px;
+	color: aqua;
+}
+
 
 
 
