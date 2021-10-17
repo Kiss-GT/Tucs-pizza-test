@@ -495,7 +495,8 @@ h1{
 		width: 70%;
 	}
 	.carousel-item {
-		height: 250px;
+		height: 350px;
+		
 	}
 	.tel-fixed{
 		font-size: medium;
@@ -517,6 +518,9 @@ h1{
 	.social-media img{
 		width: 35px;
 		height: 35px;
+	}
+	.carousel{
+		width: 80%;
 	}
 	
 }
