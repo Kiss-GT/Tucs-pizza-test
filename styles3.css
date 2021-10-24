@@ -445,10 +445,11 @@ h1{
 }
 .back-top{
 	margin-left: 20%;
+	font-size: large;
 }
 .tel-fixed{
 	position: fixed;
-	font-size: xx-large;
+	font-size: medium;
 	margin-top: 200px;
 	margin-left: 20px;
 	color: aqua;
